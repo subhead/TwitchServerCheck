@@ -1,10 +1,7 @@
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
-#from ping_gui import Ui_ServerPing
 import requests
 import json
-#import pprint
-#import pyperclip
 from gui.ping_gui_v4 import Ui_ServerPing
 
 
